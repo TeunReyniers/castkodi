@@ -31,6 +31,7 @@
         "clean": "rm -rf .nyc_output/ coverage/ docs/ node_modules/"
     },
     "devDependencies": {
+        "coveralls": "^3.0.2",
         "david": "^11.0.0",
         "eslint": "^5.9.0",
         "esm": "^3.0.84",
@@ -45,6 +46,7 @@
         "nyc": "^13.1.0",
         "purgecss": "^1.1.0",
         "stylelint": "^9.9.0",
-        "stylelint-order": "^2.0.0"
+        "stylelint-order": "^2.0.0",
+        "yaml-lint": "^1.2.4"
     }
 }
