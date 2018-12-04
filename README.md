@@ -73,7 +73,7 @@ v1.2](https://joinup.ec.europa.eu/collection/eupl/eupl-text-11-12).
 [img-stars]:https://img.shields.io/amo/stars/castkodi.svg
 
 [link-version]:https://addons.mozilla.org/fr/firefox/addon/castkodi/
-[link-build]:https://travis-ci.org/regseb/castkodi
+[link-build]:https://travis-ci.com/regseb/castkodi
 [link-dependencies]:https://david-dm.org/regseb/castkodi
 [link-coverage]:https://coveralls.io/github/regseb/castkodi
 [link-license]:https://joinup.ec.europa.eu/collection/eupl/eupl-text-11-12
